@@ -152,3 +152,5 @@ class CryptoCard extends StatelessWidget {
     );
   }
 }
+
+
